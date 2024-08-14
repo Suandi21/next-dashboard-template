@@ -1,4 +1,6 @@
-// font.js
+// /app/ui/fonts.js
 export const lusitana = {
-  className: 'font-lusitana',
+  className: "font-lusitana",
 };
+
+
