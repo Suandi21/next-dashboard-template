@@ -5,5 +5,5 @@ export default function RootLayout({ children }) {
     <html lang="en">
       <body className={`${lusitana.className} antialiased`}>{children}</body>
     </html>
-  );
+  );  
 }
